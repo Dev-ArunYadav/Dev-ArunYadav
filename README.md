@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Yadav</h1>
-<h3 align="center">A passionate Web and Java developer from India</h3>
+<h3 align="center">A passionate Java Backend Developer  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-arunyadav&label=Profile%20views&color=0e75b6&style=flat" alt="dev-arunyadav" /> </p>
 
